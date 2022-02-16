@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This file contains the questions asked in the midterm exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-786-topics-in-algebraic-number-theory-spring-2006/11b0dd0460ff811d2d04cf06dee3a9ee_midterm.pdf
+file: /media/courses/18-786-topics-in-algebraic-number-theory-spring-2006/11b0dd0460ff811d2d04cf06dee3a9ee_midterm.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: midterm.pdf
 uid: 11b0dd04-60ff-811d-2d04-cf06dee3a9ee
