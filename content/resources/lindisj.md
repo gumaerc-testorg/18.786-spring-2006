@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7001759c-4993-bee1-17f4-93346a2ee0c3
 resourcetype: Document
 title: lindisj.pdf
 uid: 71920b73-94a2-e578-905f-4f7e950384b9

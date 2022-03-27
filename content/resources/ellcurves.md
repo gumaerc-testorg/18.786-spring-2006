@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 7001759c-4993-bee1-17f4-93346a2ee0c3
 resourcetype: Document
 title: ellcurves.pdf
 uid: 8f1dbf44-fa79-1a5c-4765-52df1b23f6cb
