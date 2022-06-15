@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Assignments section contains the exercise files containing questions
+  based on the topics covered in the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ ASSIGNMENTS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01))
+Problem Set 1 ({{% resource_link 88c902b6-31ef-bc53-793e-9134821e4bad "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +42,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps01))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02))
+Problem Set 2 ({{% resource_link 95390181-4e2a-7f1f-a4e0-fdcd2bb6869f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +51,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps02))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps03))
+Problem Set 3 ({{% resource_link 7ab17134-8bf1-fb6a-cf8d-976839bfb1bd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +60,7 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps03))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps04))
+Problem Set 4 ({{% resource_link 6c255b61-d5cb-7443-97ce-20a1d1db7abd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/ps04))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05))
+Problem Set 5 ({{% resource_link 22d2c2cf-7b0e-e5ff-ae28-5be53f07a49b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +78,7 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/ps05))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps05))
+Problem Set 6 ({{% resource_link 22d2c2cf-7b0e-e5ff-ae28-5be53f07a49b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +87,7 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/ps05))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps07))
+Problem Set 7 ({{% resource_link 6adb53cb-8091-fa24-2e07-0fccee3d54f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/ps07))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps08))
+Problem Set 8 ({{% resource_link afce302e-a9f1-b0ca-b629-d1034071e491 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/ps08))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps09))
+Problem Set 9 ({{% resource_link 79fdc7d6-f9ed-96c4-f044-d3e9f2df70c8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +114,7 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/ps09))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 10 ([PDF]({{< baseurl >}}/resources/ps10))
+Problem Set 10 ({{% resource_link 1553c1b0-40b3-da0e-3472-d12c95777f21 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
