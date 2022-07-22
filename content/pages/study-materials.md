@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Study materials section contains the questions asked as a virtual office
+  hours.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: b4df34bc-ddc2-4eef-9275-5daad8d58f9c
 ---
@@ -7,7 +11,7 @@ uid: b4df34bc-ddc2-4eef-9275-5daad8d58f9c
 Virtual Office Hours
 --------------------
 
-This "virtual office hours" is meant to record answers to questions asked either in person or by email, including questions about homework provided in the [assignments]({{< baseurl >}}/pages/assignments) section.
+This "virtual office hours" is meant to record answers to questions asked either in person or by email, including questions about homework provided in the {{% resource_link fa330eea-0238-bbad-1d99-2dd9f6a9b0fa "assignments" %}} section.
 
 Question: If R is an integrally closed domain, why is R\[x\] integrally closed? (Problem Set 2, problem 2a)  
 Answer: Helpful hints:

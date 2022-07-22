@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: Readings section contains the readings for the topics covered in the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 7001759c-4993-bee1-17f4-93346a2ee0c3
 ---
@@ -38,7 +43,7 @@ READINGS
 Course Overview
 {{< tdclose >}}
 {{< tdopen >}}
-Elliptic Curves ([PDF]({{< baseurl >}}/resources/ellcurves))
+Elliptic Curves ({{% resource_link 8f1dbf44-fa79-1a5c-4765-52df1b23f6cb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ Linearly Disjoint Extensions; Cyclotomic Fields (General Case)
 {{< tdopen >}}
 Janusz, sections I.9, I.10, and I.11.  
   
-See also this supplement ([PDF]({{< baseurl >}}/resources/lindisj))
+See also this supplement ({{% resource_link 71920b73-94a2-e578-905f-4f7e950384b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

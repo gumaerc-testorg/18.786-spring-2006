@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: syllabus sections contains the information about prerequisites, problem
+  sets, grading criteria etc.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 5f8de1ba-5f3e-aee0-128d-7dffed4c78df
 ---
@@ -44,7 +48,7 @@ Course Requirements
 
 Homework assignments will be given approximately weekly. There is one in-class midterm and a take-home final exam. The midterm is detachable, meaning at least 2 of the four problems are due during the class period and the remainder are due at a later date.
 
-As usual, you are encouraged to work on the homework in groups, but you must write up your own solutions, and I would like you to specify on your homework who was in your working group. On the take-home exam, you are to work on your own using only the specified resources (the book, your course notes, any book from the library, but not any human and not GoogleTM). In case of prima facie evidence of academic dishonesty, I reserve the right to ask you to defend your solutions, so don't tempt me.
+As usual, you are encouraged to work on the homework in groups, but you must write up your own solutions, and I would like you to specify on your homework who was in your working group. On the take-home exam, you are to work on your own using only the specified resources (the book, your course notes, any book from the library, but not any human and not Google{{< sup "TM" >}}). In case of prima facie evidence of academic dishonesty, I reserve the right to ask you to defend your solutions, so don't tempt me.
 
 Grading
 -------
