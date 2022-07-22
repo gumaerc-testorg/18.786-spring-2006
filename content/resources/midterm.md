@@ -5,6 +5,7 @@ file: /courses/18-786-topics-in-algebraic-number-theory-spring-2006/11b0dd0460ff
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midterm.pdf
 uid: 11b0dd04-60ff-811d-2d04-cf06dee3a9ee
 ---
 This file contains the questions asked in the midterm exam.
-

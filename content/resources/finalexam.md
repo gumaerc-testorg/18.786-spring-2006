@@ -5,6 +5,7 @@ file: /courses/18-786-topics-in-algebraic-number-theory-spring-2006/456654315420
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finalexam.pdf
 uid: 45665431-5420-bec2-1d6e-cfd39eeb5edd
 ---
 This file contains the questions asked in the final exam.
-
