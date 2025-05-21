@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains additional notes on linear disjointness.
-file: /ol-ocw-studio-app/courses/18-786-topics-in-algebraic-number-theory-spring-2006/71920b7394a2e578905f4f7e950384b9_lindisj.pdf
+file: /courses/18-786-topics-in-algebraic-number-theory-spring-2006/71920b7394a2e578905f4f7e950384b9_lindisj.pdf
 file_size: 62339
 file_type: application/pdf
 learning_resource_types:
