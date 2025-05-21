@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the questions asked in the final exam.
-file: /ol-ocw-studio-app/courses/18-786-topics-in-algebraic-number-theory-spring-2006/456654315420bec21d6ecfd39eeb5edd_finalexam.pdf
+file: /courses/18-786-topics-in-algebraic-number-theory-spring-2006/456654315420bec21d6ecfd39eeb5edd_finalexam.pdf
 file_size: 88281
 file_type: application/pdf
 learning_resource_types:
