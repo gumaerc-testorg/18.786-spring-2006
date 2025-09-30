@@ -41,7 +41,7 @@ For arithmetic geometry (like curves over finite fields), try: Lorenzini, Dino. 
 
 For modular forms, try: Diamond, Fred, and Jerry Shurman. _A First Course in Modular Forms_. New York, NY: Springer, c2005. ISBN: 038723229X.
 
-There are lots of useful course notes available from James Milne's [Web site](http://www.jmilne.org/): Look for "Algebraic Number Theory," and perhaps "Class Field Theory."
+There are lots of useful course notes available from James Milne's {{% resource_link "3f73247a-13b9-4a10-95a3-b937d5e8adb8" "Web site" %}}: Look for "Algebraic Number Theory," and perhaps "Class Field Theory."
 
 Course Requirements
 -------------------
