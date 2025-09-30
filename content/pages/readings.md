@@ -15,9 +15,9 @@ Neukirch = Neukirch, Jürgen. *Algebraische Zahlentheorie. (Algebraic Number The
 
 Cassels-Fröhlich = Cassels, J. W. S., and A. Fröhlich. "Algebraic number theory." Proceedings of an instructional conference organized by the London Mathematical Society (a NATO advanced study institute) with the support of the International Mathematical Union. New York, NY: Academic Press, 1967. ISBN: 0121632512. (Out of print.)
 
-Milne's Notes = Class Field Theory, available at James Milne's [Web site](http://www.jmilne.org/).
+Milne's Notes = Class Field Theory, available at James Milne's {{% resource_link "3f73247a-13b9-4a10-95a3-b937d5e8adb8" "Web site" %}}.
 
-For Class Field Theory, see also my [Math 254B course notes](http://www.coursehero.com/sitemap/schools/394-UCLA/courses/791532p-MATH254B/) (Berkeley, spring 2002).
+For Class Field Theory, see also my {{% resource_link "1d14d7df-242c-4a94-8732-7c057bbfce94" "Math 254B course notes" %}} (Berkeley, spring 2002).
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Lec #
@@ -165,7 +165,7 @@ Janusz, section IV.2.
 Chebotarev Density Theorem; Arakelov Class Group
 {{< tdclose >}}{{< tdopen >}}
 
-See the Arakelov Class Group Notes by Rene Schoof ([PDF](https://arxiv.org/abs/0801.3835))
+See the Arakelov Class Group Notes by Rene Schoof ({{% resource_link "69473f15-2662-431f-8b62-7d74acb26f98" "PDF" %}})
 
 Janusz, section IV.3.
 
@@ -175,7 +175,7 @@ Janusz, section IV.3.
 Arakelov Class Group (cont.); Local Class Field Theory
 {{< tdclose >}}{{< tdopen >}}
 
-See the Arakelov Class Group Notes by Rene Schoof ([PDF](https://arxiv.org/abs/0801.3835))
+See the Arakelov Class Group Notes by Rene Schoof ({{% resource_link "69473f15-2662-431f-8b62-7d74acb26f98" "PDF" %}})
 
 Neukirch, section III.
 
